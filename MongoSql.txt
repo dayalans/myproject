@@ -1,0 +1,3 @@
+ucinstance.aggregate([{ $match: {$expr: {$eq: [‘ucType’, ‘Smart Connect' ] } }]);
+
+https://mkyong.com/mongodb/spring-data-mongodb-update-document/
